@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anastasiia Kim / anastasiiakim.github.io"
+title                    : "Anastasiia Kim"
 title_separator          : "-"
 name                     : &name "Anastasiia Kim"
 description              : &description "PhD candidate in Statistics"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Anastasiia Kim"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Statistics, University of New Mexico"
-  location         : "Albuquerque, New Mexico"
+  bio              : "Ph.D. candidate in Statistics, University of New Mexico"
+  location         : "Albuquerque, New Mexico, US"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : anastasiiakim@unm.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
