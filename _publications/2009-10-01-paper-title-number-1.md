@@ -2,13 +2,14 @@
 title: "Probabilities of unranked and ranked anomaly zones under birth-death models"
 collection: publications
 permalink: /publication/2019-12-20-kim-etal-probs
-excerpt: 'In this paper, we study how the parameters of a species tree simulated under a constant rate birth-death process can affect the probability that the species tree lies in the anomaly zone. Here we derive the lower bound of the probability of the species tree being in an unranked anomaly zone approaches with <i>n</i> leaves for large speciation rate \lambda, and we show that this lower bound approaches 1 as <i>n</i> &rarr \infty and \lambda &rarr \infty.'
+excerpt: 'In this paper, we study how the parameters of a species tree simulated under a constant rate birth-death process can affect the probability that the species tree lies in the anomaly zone. Here we derive the lower bound of the probability of the species tree being in an unranked anomaly zone approaches with <i>n</i> leaves for large speciation rate \lambda, and we show that this lower bound approaches 1 as <i>n</i> &rarr \infty and $\lambda$ &rarr $\infty$.'
 date: 2019-12-20
 venue: 'Molecular Biology and Evolution'
 paperurl: 'https://doi.org/10.1093/molbev/msz305'
 arxivurl: 'https://arxiv.org/pdf/1911.01636.pdf'
+authors: 'Anastasiia Kim, Noah Rosenberg, and James Degnan'
 
-citation: 'A. Kim, N. A. Rosenberg, and J. H. Degnan (2019). &quot;Probabilities of unranked and ranked anomaly zones under birth-death models.&quot; <i>Molecular Biology and Evolution</i>. 1(1).'
+citation: 'A. Kim, N. A. Rosenberg, and J. H. Degnan. &quot;Probabilities of unranked and ranked anomaly zones under birth-death models.&quot; <i>Molecular Biology and Evolution</i>, 2019.'
 ---
 
 >Abstract: <br/> A labeled gene tree topology that is more probable than the labeled gene tree topology matching a species tree is called anomalous. Species trees that can generate such anomalous gene trees are said to be in the anomaly zone. Here, probabilities of unranked and ranked gene tree topologies under the multispecies coalescent are considered. A ranked tree depicts not only the topological relationship among gene lineages, as an unranked tree does, but also the sequence in which the lineages coalesce. In this article, we study how the parameters of a species tree simulated under a constant rate birth-death process can affect the probability that the species tree lies in the anomaly zone. We find that with more than five taxa, it is possible for species trees to have both anomalous unranked (AGTs) and ranked (ARGTs) gene trees. The probability of being in either type of anomaly zone increases with more taxa. The probability of AGTs also increases with higher speciation rates. We observe that the probabilities of unranked anomaly zones are higher and grow much faster than those of ranked anomaly zones as the speciation rate increases. Our simulation shows that the most probable ranked gene tree is likely to have the same unranked topology as the species tree. We design the software PRANC, which computes probabilities of ranked gene tree topologies given a species tree under the coalescent model.
