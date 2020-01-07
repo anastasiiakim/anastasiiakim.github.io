@@ -13,7 +13,7 @@ This is a description of a teaching experience. You can use markdown like any ot
 Heading 1
 ======
 paperurl: 'http://anastasiiakim.github.io/files/stat145_ch1.pdf'
-[Download paper here](http://anastasiiakim.github.io/files/stat145_ch1.pdf)
+<a href='http://anastasiiakim.github.io/files/stat145_ch1.pdf'>Chapter 1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='http://anastasiiakim.github.io/files/stat145_ch1.pdf'>PDF</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='http://anastasiiakim.github.io/files/stat145_ch1.pdf'>Code</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 Heading 2
