@@ -85,8 +85,8 @@ for row, item in publications.iterrows():
     
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
-    
-  if len(str(item.preprint_url)) > 5:
+
+    if len(str(item.preprint_url)) > 5:
         md += "\npreprinturl: '" + item.preprint_url + "'"
         
     if len(str(item.arXiv_url)) > 5:
@@ -111,8 +111,8 @@ for row, item in publications.iterrows():
         md += "\n"
     if len(str(item.preprint_url)) > 5:
         md += "<a href='" + item.preprint_url + "'>Preprint</a>" 
-    if len(str(item.arXiv_url)) > 5:
-        md += " (<a href='" + item.arXiv_url + "'>arXiv</a>)" 
+#        if len(str(item.arXiv_url)) > 5:
+#            md += " (<a href='" + item.arXiv_url + "'>EarthArXiv</a>)" 
         md+="&nbsp;&nbsp;&nbsp;&nbsp;"
     if len(str(item.pdf_url)) > 5:
         md += "<a href='" + item.pdf_url + "'>PDF</a>&nbsp;&nbsp;&nbsp;&nbsp;" 
@@ -127,10 +127,8 @@ for row, item in publications.iterrows():
     
     md += "\n\nSuggested citation: <br/>" + item.citation
     
-    
     md_filename = os.path.basename(md_filename)
        
     with open("../_publications/" + md_filename, 'w') as f:
         f.write(md)
-
 
