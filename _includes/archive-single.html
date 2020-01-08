@@ -42,6 +42,8 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           {{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}:  <a href="{{ post.paperurl }}">{{ post.paperurl }}</a><br>
+        {% if post.arxivurl %}
+        <p>ArXiv <a href=" {{ post.arxivurl }} ">here</a></p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
@@ -67,7 +69,7 @@
       <p>Suggested citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Suggested citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
+    {% elsif post.arxivurl %}
       <p>ArXiv <a href=" {{ post.arxivurl }} ">here</a></p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
