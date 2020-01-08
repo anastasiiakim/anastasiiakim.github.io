@@ -7,4 +7,4 @@ venue: "ASA New Mexico Chapter Annual Meeting"
 date: 2018-04-13
 location: "Santa Fe, New Mexico"
 ---
-[Slides]('http://anastasiiakim.github.io/files/talks/asachapter_talk.pdf')
+[Slides](http://anastasiiakim.github.io/files/talks/asachapter_talk.pdf)
