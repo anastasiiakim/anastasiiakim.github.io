@@ -2,7 +2,7 @@
 title: "Calculating the probability of a ranked gene tree given a species tree under the multispecies coalescent model"
 collection: talks
 type: "Talk"
-permalink: "/talks/2018-04-13-santafetalk"
+permalink: "/talks/2018-04-13-abqasatalk"
 venue: "Albuquerque Chapter of the American Statistical Association, 2018 Annual Meeting"
 date: 2018-04-13
 location: "Santa Fe, New Mexico"
