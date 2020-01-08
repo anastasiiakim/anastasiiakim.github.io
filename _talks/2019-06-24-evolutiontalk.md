@@ -1,7 +1,7 @@
 ---
 title: "Heuristic approaches for ranked, unranked, and unrooted anomaly zones"
 collection: talks
-type: "Talk"
+type: "Talk: Phylogenomics session"
 permalink: /talks/2019-06-24-evolutiontalk
 venue: "Evolution 2019"
 date: 2019-06-24
