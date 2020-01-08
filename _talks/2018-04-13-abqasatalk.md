@@ -8,3 +8,4 @@ date: 2018-04-13
 location: "Santa Fe, New Mexico"
 ---
 
+[Slides](http://anastasiiakim.github.io/files/asachapter_talk.pdf)
