@@ -230,6 +230,13 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _prof
+  - scope:
+      path: ""
+      type: prof
+    values:
+      layout: single
+      author_profile: true
   # _portfolio
   - scope:
       path: ""
@@ -247,15 +254,8 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _prof
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
+      
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
