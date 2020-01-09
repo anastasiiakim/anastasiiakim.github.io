@@ -231,12 +231,14 @@ defaults:
       share: true
       comments: true
   # _prof
-  - scope:
+   - scope:
       path: ""
       type: prof
     values:
       layout: single
       author_profile: true
+      share: true
+      comment: true
   # _portfolio
   - scope:
       path: ""
