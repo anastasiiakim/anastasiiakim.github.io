@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  prof:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -240,6 +243,14 @@ defaults:
   - scope:
       path: ""
       type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _prof
+  - scope:
+      path: ""
+      type: prof
     values:
       layout: talk
       author_profile: true
