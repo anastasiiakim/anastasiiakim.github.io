@@ -231,7 +231,7 @@ defaults:
       share: true
       comments: true
   # _prof
-   - scope: 
+  - scope:
       path: ""
       type: talks
     values:
