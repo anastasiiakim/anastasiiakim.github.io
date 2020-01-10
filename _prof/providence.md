@@ -1,5 +1,5 @@
 ---
-title: "Evolution meetings 2019"
+title: "Evolution meetings"
 collection: prof
 permalink: /prof/providence
 excerpt: "Gave a talk at Evolution 2019."
