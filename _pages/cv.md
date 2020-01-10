@@ -32,7 +32,7 @@ Recent experience
   
 Skills
 ======
-* <b>Technical</b>: C/C++, SAS, SQL, Unix, Git. %\LaTeX.
+* <b>Technical</b>: C/C++, SAS, SQL, Unix, Git, LaTeX.
   * Python (numpy, pandas, scikit-learn, tensorflow, keras, nltk, gensim, matplotlib)
   * R (stats, glm, tidyverse, ggplot2, caret, rjags, knitr, sparklyr)       
 * <b>Statistics</b>: Statistical inference, Linear Models, Multivariate analysis, Bayesian inference, Time series, Stochastic processes. 
