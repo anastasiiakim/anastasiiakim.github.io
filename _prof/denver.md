@@ -1,5 +1,5 @@
 ---
-title: "Joint Statistical Meetings 2019"
+title: "Joint Statistical Meetings"
 collection: prof
 permalink: /prof/denver
 excerpt: "Presented a poster at JSM 2019."
