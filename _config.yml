@@ -235,10 +235,9 @@ defaults:
       path: ""
       type: prof
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
-      comment: true
   # _portfolio
   - scope:
       path: ""
