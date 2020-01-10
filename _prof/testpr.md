@@ -1,9 +1,8 @@
 ---
-title: "TEST"
+title: "Algebraic and combinatorial phylogenetics, June 19 to July 7, 2017, Barcelona, Spain"
 collection: prof
-type: "Poster Presentation: Section on Statistics in Genomics and Genetics"
-permalink: /talks/2019-07-31-jsmpp
-venue: "Joint Statistical Meetings 2019"
-date: 2019-07-31
-location: "Denver, Colorado"
+excerpt: "Course on Semialgebraic statistics, latent tree models, and phylogenetics."
+permalink: /prof/barcelona
+venue: Some
+date: 2017-06-19 - 2017-07-07
 ---
