@@ -1,5 +1,5 @@
 ---
-title: "Elements of Mathematical Statistics and Probability Theory"
+title: "Elements of Mathematical Statistics and Probability Theory (Spring 2020)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching
