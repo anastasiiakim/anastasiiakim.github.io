@@ -195,7 +195,7 @@ collections:
 # Defaults
 defaults:
   # _posts
-  - scope:
+  - scope: 
       path: ""
       type: posts
     values:
@@ -206,14 +206,14 @@ defaults:
       share: true
       related: true
   # _pages
-  - scope:
+  - scope: 
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
+  - scope: 
       path: ""
       type: teaching
     values:
@@ -231,7 +231,7 @@ defaults:
       share: true
       comments: true
   # _prof
-   - scope:
+   - scope: 
       path: ""
       type: talks
     values:
