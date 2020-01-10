@@ -233,7 +233,7 @@ defaults:
   # _prof
   - scope:
       path: ""
-      type: talks
+      type: prof
     values:
       layout: talk
       author_profile: true
