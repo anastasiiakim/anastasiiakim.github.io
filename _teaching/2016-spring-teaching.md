@@ -1,5 +1,5 @@
 ---
-title: "Intro to Statistics"
+title: "Intro to Statistics (Fall 2014, Spring 2015, Summer 2015, Fall 2015, Spring 2016)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2016-spring-teaching
