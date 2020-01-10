@@ -1,6 +1,9 @@
 ---
-title: "Title 1"
-excerpt: "TEST restrdytfuygigigi"
-collection: prof
+title: "Using ranked gene tree distributions for detecting anomaly zone in a species tree and maximum likelihood inference"
+collection: talks
+type: "Poster Presentation: Section on Statistics in Genomics and Genetics"
+permalink: /talks/2019-07-31-jsmpp
+venue: "Joint Statistical Meetings 2019"
+date: 2019-07-31
+location: "Denver, Colorado"
 ---
-
