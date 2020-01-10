@@ -1,5 +1,5 @@
 ---
-title: "Algebraic and combinatorial phylogenetics"
+title: "Algebraic and Combinatorial Phylogenetics"
 collection: prof
 excerpt: "Attended the conference and course on *Semialgebraic statistics, latent tree models, and phylogenetics*."
 permalink: /prof/barcelona
