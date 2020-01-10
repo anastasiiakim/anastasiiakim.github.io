@@ -1,5 +1,5 @@
 ---
-title: "ASA New Mexico Chapter Annual Meeting"
+title: "ASA New Mexico Chapter Annual Meetings"
 collection: prof
 excerpt: "Attended ASA chapter annually meetings since 2016. Gave a talk in 2018."
 permalink: /prof/santafe
