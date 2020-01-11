@@ -3,7 +3,8 @@ title: "Intro to Statistics (Fall 2014, Spring 2015, Summer 2015, Fall 2015, Spr
 collection: teaching
 type: "Stat 145/Math 1350"
 permalink: /teaching/2016-spring-teaching
-venue: "University of New Mexico, Department of Mathematics and Statistics"
+venue: "UNM, Department of Mathematics and Statistics"
+date:2016-01-15
 location: "Albuquerque, New Mexico"
 ---
 
