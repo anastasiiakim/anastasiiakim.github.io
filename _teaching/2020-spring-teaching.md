@@ -20,7 +20,7 @@ location: "Albuquerque, New Mexico"
 | 5, Feb 17 - Feb 2    | Chapter 3         |                                                              |
 | 6, Feb 24 - Feb 28   | Chapter 4: Continuous Random Variables and Probability Distributions         |                                                              |
 | 7, Mar 2 - Mar 6     | Chapter 4         |                                                              |
-| 8, Mar 9 - Mar 13    | Chapter 4         | Midterm (chapters 2, 3, 4)                                   |
+| 8, Mar 9 - Mar 13    | Chapter 4         |                                   |
 | 9, Mar 16 - Mar 20   |                   | Spring break                                                 |
 | 10, Mar 23 - Mar 27  | Chapter 5: Joint Probability Distributions        |                                                              |
 | 11, Mar 30 - Apr 3   | Chapter 5, Chapter 6: Descriptive Statistics         |                                                              |
@@ -29,6 +29,6 @@ location: "Albuquerque, New Mexico"
 | 14, Apr 20 - Apr 24  | Chapter 8: Statistical Intervals for a Single Sample        |                                                              |
 | 15, Apr 27 - May 1   | Chapter 9: Tests of Hypotheses for a Single Sample        |                                                              |
 | 16, May 4 - May 7    | Chapter 9, review |                                                              |
-| 17, May 11 - May 15  |                   | Final exam                                                   |
+| 17, May 11 - May 15  |                   |                                       |
 
 
