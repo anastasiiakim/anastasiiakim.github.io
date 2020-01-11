@@ -4,7 +4,7 @@ collection: teaching
 type: "Stat 145/Math 1350"
 permalink: /teaching/2016-spring-teaching
 venue: "UNM, Department of Mathematics and Statistics"
-date:2016-01-15
+date: 2016-01-15
 location: "Albuquerque, New Mexico"
 ---
 
