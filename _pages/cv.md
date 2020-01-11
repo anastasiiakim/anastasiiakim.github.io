@@ -59,7 +59,7 @@ Teaching
 Professional and Department Service
 ======
 * Reviewer for the *Journal of Mathematical Biology*.
-* Volunteered to grade the department core stats and algebra final exams (Fall 2016 - Fall 2019).
+* Volunteered to grade the core stats and algebra final exams (Fall 2016 - Fall 2019).
 * Volunteered to grade the math contest exam taken by New Mexico high school students (Dec 2016).
 
 
