@@ -8,6 +8,9 @@ date: 2020-01-20
 location: "Albuquerque, New Mexico"
 ---
 
+<i>Class Times (Spring 2020)</i>: MWF 9 - 10 am
+<br><i>Book (not required)</i>: Applied Statistics and Probability for Engineering (6th or 7th Edition), by Douglas C. Montgomery and George C. Runger
+
 
 ### Tentative Course Schedule
 
