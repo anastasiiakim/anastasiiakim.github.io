@@ -14,9 +14,9 @@ location: "Albuquerque, New Mexico"
 ======
 <br>Chapter 1: Picturing Distributions with Graphs <a href='http://anastasiiakim.github.io/files/stat145/lectures/Ch1.pdf'> slides</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Chapter 2: Describing Distributions with Numbers <a href='http://anastasiiakim.github.io/files/stat145/lectures/Ch2.pdf'> slides</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<br>Chapter 3: The Normal Distributions <a href='http://anastasiiakim.github.io/files/stat145/lectures/Ch3.pdf'> slides</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<br>Chapter 3: The Normal Distributions <a href='http://anastasiiakim.github.io/files/stat145/lectures/Ch3.pdf'> slides</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='http://anastasiiakim.github.io/files/stat145/ch1_3pr.pdf'>Chapters 1, 2, 3 practice set</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Chapter 4: Scatterplots and Correlation <a href='http://anastasiiakim.github.io/files/stat145/lectures/Ch4.pdf'> slides</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<br>Chapter 5: Regression <a href='http://anastasiiakim.github.io/files/stat145/lectures/Ch5.pdf'> slides</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<br>Chapter 5: Regression <a href='http://anastasiiakim.github.io/files/stat145/lectures/Ch5.pdf'> slides</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='http://anastasiiakim.github.io/files/stat145/ch4_5pr.pdf'>Chapters 4 and 5 practice set</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Chapter 8: Producing Data: Sampling <a href='http://anastasiiakim.github.io/files/stat145/lectures/Ch8.pdf'> slides</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Chapter 9: Producing Data: Experiments <a href='http://anastasiiakim.github.io/files/stat145/lectures/Ch9.pdf'> slides</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Chapter 12: Introducing Probability <a href='http://anastasiiakim.github.io/files/stat145/lectures/Ch12.pdf'> slides</a>&nbsp;&nbsp;&nbsp;&nbsp;
