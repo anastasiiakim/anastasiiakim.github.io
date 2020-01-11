@@ -4,7 +4,6 @@ collection: teaching
 type: "Stat 145/Math 1350"
 permalink: /teaching/2016-spring-teaching
 venue: "University of New Mexico, Department of Mathematics and Statistics"
-date: 2016-01-01
 location: "Albuquerque, New Mexico"
 ---
 
@@ -12,8 +11,8 @@ location: "Albuquerque, New Mexico"
 <br><i>Book</i>: The Basic Practice of Statistics (7th Edition), by Moore, Notz and Fligner
 <br><a href='http://anastasiiakim.github.io/files/stat145/generic_syllabus.pdf'><i>Syllabus and Schedule</i></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-Lecture slides and handouts:
-======
+Lecture slides and handouts
+=====
 <br>Chapter 1: Picturing Distributions with Graphs <a href='http://anastasiiakim.github.io/files/stat145/lectures/Ch1.pdf'> slides</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Chapter 2: Describing Distributions with Numbers <a href='http://anastasiiakim.github.io/files/stat145/lectures/Ch2.pdf'> slides</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Chapter 3: The Normal Distributions <a href='http://anastasiiakim.github.io/files/stat145/lectures/Ch3.pdf'> slides</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='http://anastasiiakim.github.io/files/stat145/ch1_3pr.pdf'>Chapters 1, 2, and 3 practice set</a>&nbsp;&nbsp;&nbsp;&nbsp;
