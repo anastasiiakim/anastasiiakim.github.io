@@ -1,7 +1,7 @@
 ---
 title: "Elements of Mathematical Statistics and Probability Theory (Spring 2020)"
 collection: teaching
-type: "Undergraduate course"
+type: "Stat 345"
 permalink: /teaching/2020-spring-teaching
 venue: "University of New Mexico, Department of Mathematics and Statistics"
 date: 2020-01-20
