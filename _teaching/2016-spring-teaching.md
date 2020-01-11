@@ -12,6 +12,7 @@ location: "Albuquerque, New Mexico"
 <br><a href='http://anastasiiakim.github.io/files/stat145/generic_syllabus.pdf'><i>Syllabus and Schedule</i></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br><b>Lecture slides and handouts</b>:
+-------------
 <br>Chapter 1: Picturing Distributions with Graphs <a href='http://anastasiiakim.github.io/files/stat145/lectures/Ch1.pdf'> slides</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Chapter 2: Describing Distributions with Numbers <a href='http://anastasiiakim.github.io/files/stat145/lectures/Ch2.pdf'> slides</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Chapter 3: The Normal Distributions <a href='http://anastasiiakim.github.io/files/stat145/lectures/Ch3.pdf'> slides</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='http://anastasiiakim.github.io/files/stat145/ch1_3pr.pdf'>Chapters 1, 2, and 3 practice set</a>&nbsp;&nbsp;&nbsp;&nbsp;
