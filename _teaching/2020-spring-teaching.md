@@ -2,7 +2,7 @@
 title: "Elements of Mathematical Statistics and Probability Theory (Spring 2020)"
 collection: teaching
 type: "Stat 345"
-permalink: /teaching/2020-spring-teaching
+permalink: /teaching/stat345
 venue: "UNM, Department of Mathematics and Statistics"
 date: 2020-01-20
 location: "Albuquerque, New Mexico"
