@@ -9,11 +9,12 @@ location: "Albuquerque, New Mexico"
 ---
 
 <i>Class Time (Spring 2020)</i>: MWF 9 - 9.50 am
-<i>Class Room (Spring 2020)</i>: DSH 225
-<i>Office Hours</i>: MW TBD
-<i>Office</i>: SMLC 319
-<i>Discussion/Tutoring (DSH TBD)</i>: MW 5 - 6 pm, TR 4 - 5 pm 
+<br><i>Class Room (Spring 2020)</i>: DSH 225
+<br><i>Office Hours</i>: MW TBD
+<br><i>Office</i>: SMLC 319
+<br><i>Discussion/Tutoring (DSH TBD)</i>: MW 5 - 6 pm, TR 4 - 5 pm 
 
+<br><a href='http://anastasiiakim.github.io/files/stat345/syllabus.pdf'><i>Syllabus</i></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Tentative Course Schedule
 
