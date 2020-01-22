@@ -8,30 +8,30 @@ date: 2020-01-20
 location: "Albuquerque, New Mexico"
 ---
 
-<i>Class Times (Spring 2020)</i>: MWF 9 - 10 am
-<br><i>Book (not required)</i>: Applied Statistics and Probability for Engineering (6th or 7th Edition), by Douglas C. Montgomery and George C. Runger
+<i>Class Time (Spring 2020)</i>: MWF 9 - 9.50 am   DSH 225
+
 
 
 ### Tentative Course Schedule
 
 | Week                   | Chapters          |  Additional comments                                         |
 | ------------           | ----------        | ------------------------------------------------------------ |
-| 1, Jan 20 - Jan 24     | Chapter 2: Probability         | Jan 20, Martin Luther King Jr. day                           |
-| 2, Jan 27 - Jan 31     | Chapter 2          |                                                              |
-| 3, Feb 3 - Feb 7       | Chapter 3: Discrete Random Variables and Probability Distributions         |                                                              |
-| 4, Feb 10 - Feb 14     | Chapter 3         |                                                              |
-| 5, Feb 17 - Feb 2      | Chapter 3         |                                                              |
-| 6, Feb 24 - Feb 28     | Chapter 4: Continuous Random Variables and Probability Distributions         |                                                              |
-| 7, Mar 2 - Mar 6       | Chapter 4         |                                                              |
-| 8, Mar 9 - Mar 13      | Chapter 4         |                                   |
+| 1, Jan 20 - Jan 24     | Introduction. Counting.         | Jan 20, Martin Luther King Jr. day                           |
+| 2, Jan 27 - Jan 31     | Probability rules. Bayes theorem.        |                                                              |
+| 3, Feb 3 - Feb 7       | Random Variables and Probability Distributions         |                                                              |
+| 4, Feb 10 - Feb 14     | Discrete Distributions         |                                                              |
+| 5, Feb 17 - Feb 2      | Continuous Random Variables and Probability Distributions        |                                                              |
+| 6, Feb 24 - Feb 28     | Continuous Random Variables and Probability Distributions         |                                                              |
+| 7, Mar 2 - Mar 6       | Joint Probability Distributions          |                                                              |
+| 8, Mar 9 - Mar 13      | Joint Probability Distributions          |      Midterm, March 11th                             |
 | 9, Mar 16 - Mar 20     |                   | Spring break                                                 |
-| 10, Mar 23 - Mar 27    | Chapter 5: Joint Probability Distributions        |                                                              |
-| 11, Mar 30 - Apr 3     | Chapter 5, Chapter 6: Descriptive Statistics         |                                                              |
-| 12, Apr 6 - Apr 10     | Chapter 7: Point Estimation of Parameters and Sampling Distributions        |                                                              |
-| 13, Apr 13 - Apr 17    | Chapter 7         |                                                              |
-| 14, Apr 20 - Apr 24    | Chapter 8: Statistical Intervals for a Single Sample        |                                                              | 
-| 15, Apr 27 - May 1     | Chapter 9: Tests of Hypotheses for a Single Sample        |                                                              |
-| 16, May 4 - May 7      | Chapter 9, review |                                                              |
-| 17, May 11 - May 15    |                   |                                       |
+| 10, Mar 23 - Mar 27    | Descriptive Statistics        |                                                              |
+| 11, Mar 30 - Apr 3     | Point Estimation         |                                                              |
+| 12, Apr 6 - Apr 10     | TBD         |                                                              |
+| 13, Apr 13 - Apr 17    | TBD         |                                                              |
+| 14, Apr 20 - Apr 24    | TBD     |                                                              | 
+| 15, Apr 27 - May 1     | TBD        |                                                              |
+| 16, May 4 - May 7      | TBD. Review |                                                              |
+| 17, May 11 - May 15    |                   |      Final, May 13th                                 |
 
 
