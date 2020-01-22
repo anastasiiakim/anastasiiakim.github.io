@@ -19,8 +19,8 @@ location: "Albuquerque, New Mexico"
 
 | Week                   | Chapters          |  Additional comments                                         |
 | ------------           | ----------        | ------------------------------------------------------------ |
-| 1, Jan 20 - Jan 24     | Introduction. Counting.         | Jan 20, Martin Luther King Jr. day                           |
-| 2, Jan 27 - Jan 31     | Probability rules. Bayes theorem.        |                                                              |
+| 1, Jan 20 - Jan 24     | Introduction. Counting         | Jan 20, Martin Luther King Jr. day                           |
+| 2, Jan 27 - Jan 31     | Probability rules. Bayes theorem        |                                                              |
 | 3, Feb 3 - Feb 7       | Random Variables and Probability Distributions         |                                                              |
 | 4, Feb 10 - Feb 14     | Discrete Distributions         |                                                              |
 | 5, Feb 17 - Feb 2      | Continuous Random Variables and Probability Distributions        |                                                              |
