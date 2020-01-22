@@ -11,7 +11,6 @@ location: "Albuquerque, New Mexico"
 <i>Class Time (DSH 225)</i>: MWF 9 - 9.50 am
 <br><i>Office Hours (SMLC 319)</i>: MW TBD
 <br><i>Discussion/Tutoring (DSH TBD)</i>: MW 5 - 6 pm, TR 4 - 5 pm 
-
 <br><a href='http://anastasiiakim.github.io/files/stat345/syllabus.pdf'><i>Syllabus</i></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Tentative Course Schedule
