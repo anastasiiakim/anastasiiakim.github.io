@@ -9,15 +9,15 @@ location: "Albuquerque, New Mexico"
 ---
 
 <i>Class Time (DSH 225)</i>: MWF 9 - 9.50 am
-<br><i>Office Hours (SMLC 319)</i>: MW TBD
-<br><i>Discussion/Tutoring (DSH TBD)</i>: MW 5 - 6 pm, TR 4 - 5 pm 
+<br><i>Office Hours (SMLC 319)</i>: W 2.30 - 4 pm, F 2 - 3.30 pm or by appointment
+<br><i>Discussion/Tutoring (DSH 326)</i>: MTWR 4.30 - 5.30 pm
 <br><a href='http://anastasiiakim.github.io/files/stat345/syllabus.pdf'><i>Syllabus</i></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Tentative Course Schedule
 
 | Week                   | Chapters          |  Additional comments                                         |
 | ------------           | ----------        | ------------------------------------------------------------ |
-| 1, Jan 20 - Jan 24     | Introduction. Counting         | <br><a href='http://anastasiiakim.github.io/files/stat345/lecture1.pdf'><i>lecture 1</i></a>&nbsp;&nbsp;&nbsp;&nbsp; |
+| 1, Jan 20 - Jan 24     | Introduction. Counting         | <br><a href='http://anastasiiakim.github.io/files/stat345/lecture1.pdf'><i>lecture 1</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/lecture2.pdf'><i>lecture 2</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/birthday_problem_R_code.r'><i>birthday_problem_R_code</i></a>&nbsp;&nbsp;&nbsp;&nbsp; |
 | 2, Jan 27 - Jan 31     | Probability rules. Bayes theorem        |                                                              |
 | 3, Feb 3 - Feb 7       | Random Variables and Probability Distributions         |                                                              |
 | 4, Feb 10 - Feb 14     | Discrete Distributions         |                                                              |
