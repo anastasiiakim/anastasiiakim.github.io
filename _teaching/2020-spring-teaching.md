@@ -17,8 +17,8 @@ location: "Albuquerque, New Mexico"
 
 | Week                   | Chapters          |  Additional comments                                         |
 | ------------           | ----------        | ------------------------------------------------------------ |
-| 1, Jan 20 - Jan 24     | Introduction. Counting         | <br><a href='http://anastasiiakim.github.io/files/stat345/lecture1.pdf'><i>lecture 1</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/lecture2.pdf'><i>lecture 2</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/birthday_problem_R_code.r'><i>birthday_problem_R_code</i></a>&nbsp;&nbsp;&nbsp;&nbsp; |
-| 2, Jan 27 - Jan 31     | Probability rules. Bayes theorem        |                                                              |
+| 1, Jan 20 - Jan 24     | Introduction. Counting         | <br><a href='http://anastasiiakim.github.io/files/stat345/lecture1.pdf'><i>lecture 1</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/lecture2.pdf'><i>lecture 2</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/hw1.pdf'><i>homework 1 (due Feb 5th)</i></a>&nbsp;&nbsp;&nbsp;&nbsp; |
+| 2, Jan 27 - Jan 31     | Probability rules. Bayes theorem        |  <br><a href='http://anastasiiakim.github.io/files/stat345/birthday_problem_R_code.r'><i>birthday_problem_R_code</i></a>&nbsp;&nbsp;&nbsp;&nbsp;                                                            |
 | 3, Feb 3 - Feb 7       | Random Variables and Probability Distributions         |                                                              |
 | 4, Feb 10 - Feb 14     | Discrete Distributions         |                                                              |
 | 5, Feb 17 - Feb 2      | Continuous Random Variables and Probability Distributions        |                                                              |
