@@ -23,13 +23,12 @@ sum(v >= 3)/2
 n = 10
 k = 5 
 sqrt(n)
-log(n
+log(n)
 exp(-k)
 factorial(n)
 choose(n,k)
-sample(n,k)
-sample(n,k,replace=TRUE)
 sample(n)
+sample(n,replace=TRUE)
 sample(4, 3, replace=TRUE, prob=c(0.1,0.2,0.3,0.4)) #samples three numbers between 1 and 4, with replacement, and with probabilities given by (0.1,0.2,0.3,0.4)
 replicate(5,c(1:3))
 prod(c(2, 4, 5))
