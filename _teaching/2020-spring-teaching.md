@@ -12,13 +12,13 @@ location: "Albuquerque, New Mexico"
 <br><i>Office Hours (SMLC 319)</i>: W 2.30 - 4 pm, F 2 - 3.30 pm or by appointment
 <br><i>Discussion/Tutoring (DSH 326)</i>: MTWR 4.30 - 5.30 pm
 <br><a href='http://anastasiiakim.github.io/files/stat345/syllabus.pdf'><i>Syllabus</i></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+<br><i>Piazza link</i>: piazza.com/unm/spring2020/stat345
 ### Tentative Course Schedule
 
 | Week                   | Chapters          |  Additional comments                                         |
 | ------------           | ----------        | ------------------------------------------------------------ |
 | 1, Jan 20 - Jan 24     | Introduction. Counting         | <br><a href='http://anastasiiakim.github.io/files/stat345/lecture1.pdf'><i>lecture 1</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/lecture2.pdf'><i>lecture 2</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/hw1.pdf'><i>homework 1 (due Feb 5th)</i></a>&nbsp;&nbsp;&nbsp;&nbsp; |
-| 2, Jan 27 - Jan 31     | Probability rules. Bayes' theorem        |  <br><a href='http://anastasiiakim.github.io/files/stat345/lecture3.pdf'><i>lecture 3</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/basic_R.r'><i>basic_R_code</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/birthday_problem_R_code.r'><i>birthday_problem_R_code</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/matching_problem_R_code.r'><i>matching_problem_R_code</i></a>&nbsp;&nbsp;&nbsp;&nbsp;                                                            |
+| 2, Jan 27 - Jan 31     | Probability rules. Bayes' theorem        |  <br><a href='http://anastasiiakim.github.io/files/stat345/lecture3.pdf'><i>lecture 3</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/basic_R.r'><i>basic_R_code</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/birthday_problem_R_code.r'><i>birthday_problem_R_code</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/matching_problem_R_code.r'><i>matching_problem_R_code</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/lecture4.pdf'><i>lecture 4</i></a>&nbsp;&nbsp;&nbsp;&nbsp;                                                            |
 | 3, Feb 3 - Feb 7       | Random Variables and Probability Distributions         |                                                              |
 | 4, Feb 10 - Feb 14     | Discrete Distributions         |                                                              |
 | 5, Feb 17 - Feb 2      | Continuous Random Variables and Probability Distributions        |                                                              |
