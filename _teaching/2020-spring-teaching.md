@@ -14,7 +14,7 @@ location: "Albuquerque, New Mexico"
 <br><a href='http://anastasiiakim.github.io/files/stat345/syllabus.pdf'><i>Syllabus</i></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br><i>Piazza link</i>: piazza.com/unm/spring2020/stat345
 
-<br><i>Announcements</i>: homework 1 solution is posted. Homework 2 is due Monday, Feb 24th.
+<br><i>Announcements</i>: homework 1 solution is posted. Homework 2 is due Friday, Feb 21st by 3 pm.
 
 
 
