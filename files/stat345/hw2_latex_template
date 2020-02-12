@@ -1,0 +1,177 @@
+\documentclass[12pt]{article}
+\usepackage{listings}
+\usepackage{epstopdf}
+\usepackage{graphicx}
+\usepackage[letterpaper, portrait, margin=0.4in]{geometry} 
+\usepackage{amsmath}
+\usepackage{enumitem}
+\usepackage{subfigure}
+\usepackage{wrapfig}
+\usepackage[font=small,labelfont=bf]{caption}
+\usepackage{multirow}
+
+\begin{document}
+\pagenumbering{gobble}%
+\begin{center}
+\textbf{Homework 2}
+\par
+\setlength{\parskip}{1em}
+
+\par
+\footnotesize{Stat 345 - Spring 2020}
+\par
+\hfill\vspace{0.05in}  
+\par
+Name: \underline{\hspace{3in}}
+
+
+\end{center}
+
+\begin{flushleft}
+\par
+\textbf{Problem 1}
+\par
+\setlength{\parskip}{1em}
+\par
+Review the laws of probability, properties, De Morgan's laws, and conditional probability concepts. 
+\par
+	a) prove that if $P(A) > 0$, then $P(A\cap B|A) \geq P(A \cap B | A \cup B)$
+\par
+\hfill\vspace{0.2in} 
+\par
+
+	b) if $A_1, A_2,...,A_n$ are independent events, show that
+\[P(A_1\cup A_2\cup ... \cup A_n) = 1 - \prod_{i=1}^{n}(1-P(A_i))\]
+\par
+\hfill\vspace{0.2in} 
+\par
+
+	c) prove that if $P(B) > 0$, then $P(A|B) = P(A|B\cap C)P(C|B) + P(A|B\cap C^c)P(C^c|B)$
+\par
+\hfill\vspace{0.3in} 
+\par
+
+    d) prove that $P(A\cap B) \geq P(A) + P(B) - 1$
+\par
+\hfill\vspace{0.2in} 
+\par
+
+	e) (\textit{bonus question}) The inequality for the probability of an intersection given in (d) is a special case (when $n=1$) of what is known as \textit{Bonferroni's inequality}:
+	\[P(\cap_{i=1}^{n} A_i) \geq \sum_{i=1}^{n}P(A_i)-(n-1)\]
+	Here is the another inequality, called \textit{Boole's inequality}
+	\[P(\cup_{i=1}^{n} A_i) \leq \sum_{i=1}^{n} P(A_i)\] 
+	There is a similarity between \textit{Boole's inequality} and \textit{Bonferroni's inequality}. Apply Boole's inequality to $A^c$ to obtain \textit{Bonferroni's inequality}.
+	
+\par
+\hfill\vspace{0.3in} 
+\par 
+
+
+\newpage
+\par
+\textbf{Problem 2}
+\par
+\setlength{\parskip}{1em}
+\par
+Geralt and his daughter Ciri enjoy their life together in this modern world. They planned to visit their friends who live in another town.
+\par
+a) They decided to take a flight. At the airport, they realized they had forgotten to buy gifts, so Geralt sent Ciri ahead to board a plane and went to the nearest gift shop. There are 100 passengers lined up to board an airplane with 100 seats (with each seat assigned to one of the passengers). Ciri is the first passenger in line. She crazily decides to sit in a randomly chosen seat (with all seats equally likely). Each subsequent passenger takes his or her assigned seat if available, and otherwise sits in a random available seat. What is the probability that the Geralt, who arrived last, will be able to sit in his assigned seat? 
+\par
+\hfill\vspace{0.5in} 
+\par
+b) At the dinner party, Geralt, Ciri, and their ten friends are sitting at a round table, with their seating arrangement having been randomly assigned. What is the probability that Geralt and Ciri are sitting next to each other?
+\par
+\hfill\vspace{0.5in} 
+\par
+c) Eventually, they decided to play a 5-card poker. Find the probability that Ciri will get two pairs (e.g., two 5's, two 10's, and an ace).
+\par
+\hfill\vspace{0.5in} 
+\par
+
+\par
+\setlength{\parskip}{1em}
+\par
+\textbf{Problem 3}
+\par
+\setlength{\parskip}{1em}
+\par
+A small musical club consists of 17 musicians playing string instruments, 13 musicians who play the percussion instruments, and 15 musicians playing brass instruments. An orchestra of 10 instrumentalists to be formed randomly (with all subsets of 10 people equally likely). Let A, B, and C be the events that there are musicians playing strings, percussions, and brass instruments, respectively, in the orchestra.
+\par
+	a) Find the probability that there are exactly 6 musicians who play the string instruments in the orchestra.
+\par
+\hfill\vspace{0.5in} 
+\par
+	b) Find the probability that the orchestra doesn't consist of the people who play the string instruments and people who play the brass instruments.
+\par
+\hfill\vspace{0.4in} 
+\newpage
+	c) Find the probability that the orchestra has at least one representative from each of these three groups of musicians. \textit{Hint: Try to find $P(A^c \cup B^c \cup C^c)$ first and then $P(A \cap B \cap C)$.} 
+\par
+\hfill\vspace{0.7in} 
+\par
+
+\par
+\textbf{Problem 4}
+\par
+\setlength{\parskip}{1em}
+\par
+Rachel is performing independent rolls of two dice. 
+\par
+a) (\textit{bonus question}) What is the probability that the sum of two dice is 4? Calculate this probability using R (print your code and output the answer). \textit{Hint}: the function \textit{sample(1:6, 2, replace=TRUE)} simulates one two dice roll, the code from \textit{matching problem} (on the web-page) might help.
+\par
+\hfill\vspace{1in} 
+\par
+b) What is the probability that the \{sum of two dice is 4\} appears before the outcome \{sum of two dice is 8\}? \textit{Hint: let $A_n$ be the event that no 4 or 8 appears on the first $n-1$ rolls and a 4 appears on the $n$th roll. Find $P(\cup_{n=1}^\infty A_n)$.}
+\par
+\hfill\vspace{2in} 
+\par
+
+\par
+\textbf{Problem 5}
+\par
+\setlength{\parskip}{1em}
+\par
+A spam filter program is designed by looking at commonly occurring phrases in spam. Suppose that 70\% of email is spam. In 20\% of the spam emails, the phrase "you won" is used, whereas this phrase is only used in 1\% of non-spam emails. A new email has just arrived, which does mention "you won". What is the probability that it is spam? 
+\par
+\hfill\vspace{0.3in} 
+\par
+
+%\hfill\vspace{0.1in} 
+\newpage
+\textbf{Problem 6}
+\par
+\setlength{\parskip}{1em}
+\par
+My friend has a rare genetic condition. She is concerned about passing it to her future kids. There are two known mutations: $A$ and $B$. She doesn't know which one she has, so assume that $P(A)=P(B)=0.5$. If she has a $B$ mutation, there is a 1\% chance of passing this mutation to her kids. If she has an $A$ mutation, the chance of passing is 50\%. She has $2$ kids without a condition but she plans to have one more kid. 
+\par
+	a) What is the probability that a kid inherits the condition?
+\par
+\hfill\vspace{0.7in} 
+\par
+	b) Assume that two events that one of the kids doesn't have the condition and another kid doesn't have the condition are independent conditional on A or B $(i.e., P(K_1^c\cap K_2^c|A) = P(K_1^c|A)P(K_2^c|A))$, where $K_i$ is the event that $i$th kid has a condition. What is the chance that my friend has A mutation ($P(A|K_1^c\cap K_2^c)$)? 
+\par
+\hfill\vspace{1in} 
+\par
+	c) (\textit{bonus question}) What is the chance the third kid will not have the condition given that two other kids don't have it?
+\par
+\hfill\vspace{1in} 
+\par
+	
+\par
+\setlength{\parskip}{1em}
+\par
+\textbf{Problem 7}
+\par
+\setlength{\parskip}{1em}
+\par
+Romeo and Juliet have a date. Each will arrive at the meeting place with a delay between 0 and 1 hour, with all pairs of delays being equally likely. The first to arrive will wait for 15 minutes and will leave if the other has not yet arrived. What is the probability that they will meet? \textit{Hint: draw the unit square and shade the possible region first}.
+\par
+\hfill\vspace{0.3in} 
+\par
+
+
+
+
+
+\end{flushleft}
+\end{document}
