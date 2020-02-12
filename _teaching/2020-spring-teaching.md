@@ -14,7 +14,7 @@ location: "Albuquerque, New Mexico"
 <br><a href='http://anastasiiakim.github.io/files/stat345/syllabus.pdf'><i>Syllabus</i></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br><i>Piazza link</i>: piazza.com/unm/spring2020/stat345
 
-<br><i>Announcements</i>: homework 1 solution is posted. Homework 2 is due Friday, Feb 21st.
+<br><i>Announcements</i>: homework 1 solution is posted. Homework 2 is due Monday, Feb 24th.
 
 
 
@@ -29,7 +29,7 @@ location: "Albuquerque, New Mexico"
 | 5, Feb 17 - Feb 2      | Continuous Random Variables and Probability Distributions        |                                                              |
 | 6, Feb 24 - Feb 28     | Continuous Random Variables and Probability Distributions         |                                                              |
 | 7, Mar 2 - Mar 6       | Joint Probability Distributions          |                                                              |
-| 8, Mar 9 - Mar 13      | Joint Probability Distributions          |      Midterm, March 11th                             |
+| 8, Mar 9 - Mar 13      | Joint Probability Distributions          |  Midterm, March 11th                             |
 | 9, Mar 16 - Mar 20     |                   | Spring break                                                 |
 | 10, Mar 23 - Mar 27    | Descriptive Statistics        |                                                              |
 | 11, Mar 30 - Apr 3     | Point Estimation         |                                                              |
