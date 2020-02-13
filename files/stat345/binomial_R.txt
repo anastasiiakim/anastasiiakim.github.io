@@ -1,0 +1,11 @@
+# problem from the lecture 11: Each sample of water has a 10% chance of containing a particular organic pollutant. X = the number of samples that contain the pollutant in the next 18 samples analyzed.
+#a) the probability that in the next 18 samples, exactly 2 contain the pollutant
+choose(18, 2) * (0.1)^2 * 0.9^(16)
+dbinom(2, 18, 0.1) #n=18, k=2, p=0.1
+
+#b) determine the probability that at least 4 samples contain the pollutant
+1 - pbinom(4, 18, 0.1) + dbinom(4, 18, 0.1) # P(X >= 4) = 1 - P(X <= 4) + P(X = 4) = 1 - F(4) + p(4)
+
+#c) find P(3 <= X < 7)
+dbinom(3:6, 18, 0.1)
+sum(dbinom(3:6, 18, 0.1))
