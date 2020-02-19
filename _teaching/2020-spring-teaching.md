@@ -9,7 +9,7 @@ location: "Albuquerque, New Mexico"
 ---
 
 <i>Class Time (DSH 225)</i>: MWF 9 - 9.50 am
-<br><i>Office Hours (SMLC 319)</i>: W 2.30 - 4 pm, F 2 - 3.30 pm or by appointment
+<br><i>Office Hours (SMLC 319)</i>: W 2.30 - 4 pm, F 1 - 2.30 pm or by appointment
 <br><i>Discussion/Tutoring (DSH 326)</i>: MTWR 4.30 - 5.30 pm
 <br><a href='http://anastasiiakim.github.io/files/stat345/syllabus.pdf'><i>Syllabus</i></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br><i>Piazza link</i>: piazza.com/unm/spring2020/stat345
