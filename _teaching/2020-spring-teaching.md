@@ -14,7 +14,7 @@ location: "Albuquerque, New Mexico"
 <br><a href='http://anastasiiakim.github.io/files/stat345/syllabus.pdf'><i>Syllabus</i></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br><i>Piazza link</i>: piazza.com/unm/spring2020/stat345
 
-<br><i>Announcements</i>: Homework 3 solution is posted. 
+<br><i>Announcements</i>: Homework 4 (first part) is posted. 
 
 
 
@@ -31,13 +31,13 @@ location: "Albuquerque, New Mexico"
 | 7, Mar 2 - Mar 6       | Continuous Probability Distributions          |<br><a href='http://anastasiiakim.github.io/files/stat345/lecture16.pdf'><i>lecture 16</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/lecture17.pdf'><i>lecture 17</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/hw3_sol.pdf'><i>homework 3 solution</i></a>&nbsp;&nbsp;&nbsp;&nbsp;|
 | 8, Mar 9 - Mar 13      | Review          |  Midterm, March 11th <br><a href='http://anastasiiakim.github.io/files/stat345/midterm_review.pdf'><i>midterm practice exam</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/distr.pdf'><i>table of common distributions</i></a>&nbsp;&nbsp;&nbsp;&nbsp;|
 | 9, Mar 16 - Mar 20     |                   | Spring break                                                 |
-| 10, Mar 23 - Mar 27    | Joint Probability Distributions and Descriptive Statistics        |                                                              |
-| 11, Mar 30 - Apr 3     | Point Estimation         |                                                              |
-| 12, Apr 6 - Apr 10     | TBD         |                                                              |
-| 13, Apr 13 - Apr 17    | TBD         |                                                              |
-| 14, Apr 20 - Apr 24    | TBD     |                                                              | 
-| 15, Apr 27 - May 1     | TBD        |                                                              |
-| 16, May 4 - May 7      | TBD. Review |                                                              |
+| 10, Mar 23 - Mar 27    |          |                 Spring break                                             |
+| 11, Mar 30 - Apr 3     | Midterm review          |    Spring break  <br><a href='http://anastasiiakim.github.io/files/stat345/hw4-first.pdf'><i>homework 4 part one (due April 12th)</i></a>&nbsp;&nbsp;&nbsp;&nbsp;                                                        |
+| 12, Apr 6 - Apr 10     | Joint Probability Distributions and Descriptive Statistics         |                                                              |
+| 13, Apr 13 - Apr 17    | Point Estimation         |                                                              |
+| 14, Apr 20 - Apr 24    | Confidence Intervals     |                                                              | 
+| 15, Apr 27 - May 1     | Hypothesis testing        |                                                              |
+| 16, May 4 - May 7      | Review |                                                              |
 | 17, May 11 - May 15    |                   |      Final, May 13th                                 |
 
 
