@@ -9,12 +9,13 @@ location: "Albuquerque, New Mexico"
 ---
 
 <i>Class Time (DSH 225)</i>: MWF 9 - 9.50 am
-<br><i>Office Hours (SMLC 319)</i>: W 2.30 - 4 pm, F 1 - 2.30 pm or by appointment
-<br><i>Discussion/Tutoring (DSH 326)</i>: MTWR 4.30 - 5.30 pm
+<br><i>Office Hours (SMLC 319)</i>: TBD
+<br><i>Discussion/Tutoring (DSH 326)</i>: TBD
 <br><a href='http://anastasiiakim.github.io/files/stat345/syllabus.pdf'><i>Syllabus</i></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br><i>Piazza link</i>: piazza.com/unm/spring2020/stat345
 
-<br><i>Announcements</i>: Homework 4 (first part) is posted. 
+
+<br><i>Announcements</i>: Homework 4 (part one) is posted. 
 
 
 
@@ -32,7 +33,7 @@ location: "Albuquerque, New Mexico"
 | 8, Mar 9 - Mar 13      | Review          |  Midterm, March 11th <br><a href='http://anastasiiakim.github.io/files/stat345/midterm_review.pdf'><i>midterm practice exam</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/distr.pdf'><i>table of common distributions</i></a>&nbsp;&nbsp;&nbsp;&nbsp;|
 | 9, Mar 16 - Mar 20     |                   | Spring break                                                 |
 | 10, Mar 23 - Mar 27    |          |                 Spring break                                             |
-| 11, Mar 30 - Apr 3     | Midterm review          |    Spring break  <br><a href='http://anastasiiakim.github.io/files/stat345/hw4-first.pdf'><i>homework 4 part one (due April 12th)</i></a>&nbsp;&nbsp;&nbsp;&nbsp;                                                        |
+| 11, Mar 30 - Apr 3     | Midterm review          |    Spring break  <br><a href='http://anastasiiakim.github.io/files/stat345/hw4_first.pdf'><i>homework 4 part one (due April 12th)</i></a>&nbsp;&nbsp;&nbsp;&nbsp;                                                        |
 | 12, Apr 6 - Apr 10     | Joint Probability Distributions and Descriptive Statistics         |                                                              |
 | 13, Apr 13 - Apr 17    | Point Estimation         |                                                              |
 | 14, Apr 20 - Apr 24    | Confidence Intervals     |                                                              | 
