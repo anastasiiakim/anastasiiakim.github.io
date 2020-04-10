@@ -34,8 +34,8 @@ location: "Albuquerque, New Mexico"
 | 9, Mar 16 - Mar 20     |                   | Spring break                                                 |
 | 10, Mar 23 - Mar 27    |          |                 Spring break                                             |
 | 11, Mar 30 - Apr 3     | Midterm review          |    Spring break  <br><a href='http://anastasiiakim.github.io/files/stat345/hw4_first.pdf'><i>homework 4 part one (due April 12th)</i></a>&nbsp;&nbsp;&nbsp;&nbsp;                                                        |
-| 12, Apr 6 - Apr 10     | Joint Probability Distributions and Descriptive Statistics         |<br><a href='http://anastasiiakim.github.io/files/stat345/lecture18.pdf'><i>lecture 18</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/lecture19.pdf'><i>lecture 19</i></a>&nbsp;&nbsp;&nbsp;&nbsp;|
-| 13, Apr 13 - Apr 17    | Point Estimation         |                                                              |
+| 12, Apr 6 - Apr 10     | Joint Probability Distributions       |<br><a href='http://anastasiiakim.github.io/files/stat345/lecture18.pdf'><i>lecture 18</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/lecture19.pdf'><i>lecture 19</i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/lecture20.pdf'><i>lecture 20</i></a>&nbsp;&nbsp;&nbsp;&nbsp;|
+| 13, Apr 13 - Apr 17    | Descriptive Statistics. Point Estimation         |                                                              |
 | 14, Apr 20 - Apr 24    | Confidence Intervals     |                                                              | 
 | 15, Apr 27 - May 1     | Hypothesis testing        |                                                              |
 | 16, May 4 - May 7      | Review |                                                              |
