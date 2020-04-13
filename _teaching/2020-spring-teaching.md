@@ -8,11 +8,12 @@ date: 2020-01-20
 location: "Albuquerque, New Mexico"
 ---
 
-<i>Class Time (DSH 225)</i>: MWF 9 - 9.50 am
-<br><i>Office Hours (SMLC 319)</i>: TBD
-<br><i>Discussion/Tutoring (DSH 326)</i>: TBD
+<i>Class Time (DSH 225)</i>: MWF 9 - 9.50 am (Zoom meeting id on learn)
+<br><i>Office Hours (SMLC 319)</i>: F 3.30 pm Anastasiia (Zoom id on learn)
+<br><i>Discussion/Tutoring (DSH 326)</i>: W 2.30 pm Hasan, F 2 pm Jared (Zoom ids on learn)
 <br><a href='http://anastasiiakim.github.io/files/stat345/syllabus.pdf'><i>Syllabus</i></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br><i>Piazza link</i>: piazza.com/unm/spring2020/stat345
+<br><i>Recorded Kaltura class videos, Zoom meetings ids, HWs submission </i>: UNM Learn 
 
 
 <br><i>Announcements</i>: Homework 4 is due Sunday, April 12th. 
@@ -35,7 +36,7 @@ location: "Albuquerque, New Mexico"
 | 10, Mar 23 - Mar 27    |          |                 Spring break                                             |
 | 11, Mar 30 - Apr 3     | Midterm review          |    Spring break  <br><a href='http://anastasiiakim.github.io/files/stat345/hw4_first.pdf'><i>homework 4 part one (due April 12th)</i></a>&nbsp;&nbsp;&nbsp;&nbsp;                                                        |
 | 12, Apr 6 - Apr 10     | Joint Probability Distributions       |<br><a href='http://anastasiiakim.github.io/files/stat345/lecture18.pdf'><i>lecture 18</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/lecture19.pdf'><i>lecture 19</i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/lecture20.pdf'><i>lecture 20</i></a>&nbsp;&nbsp;&nbsp;&nbsp;|
-| 13, Apr 13 - Apr 17    | Descriptive Statistics. Point Estimation         |                                                              |
+| 13, Apr 13 - Apr 17    | Descriptive Statistics. Point Estimation         |&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/lecture21.pdf'><i>lecture 21</i></a>&nbsp;&nbsp;&nbsp;&nbsp;|
 | 14, Apr 20 - Apr 24    | Confidence Intervals     |                                                              | 
 | 15, Apr 27 - May 1     | Hypothesis testing        |                                                              |
 | 16, May 4 - May 7      | Review |                                                              |
