@@ -16,7 +16,7 @@ location: "Albuquerque, New Mexico"
 <br><i>Recorded Kaltura class videos, Zoom meetings ids, HWs submission </i>: UNM Learn 
 
 
-<br><i>Announcements</i>: Homework 7 is due Monday 11th. Homework 6 solution is posted. 
+<br><i>Announcements</i>: Homework 7 is due Monday 11th. Homework 6 solution is posted. Office hours this week: Friday at 5 pm.
 
 
 
