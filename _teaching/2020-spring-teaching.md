@@ -16,7 +16,7 @@ location: "Albuquerque, New Mexico"
 <br><i>Recorded Kaltura class videos, Zoom meetings ids, HWs submission </i>: UNM Learn 
 
 
-<br><i>Announcements</i>: Homework 7 is due Monday 11th. Homework 6 solution is posted. Office hours this week: Friday at 5 pm.
+<br><i>Announcements</i>: Homework 7 is due Monday 11th. Typos are fixed. Homework 6 solution is posted. Office hours this week: Friday at 5 pm.
 
 
 
@@ -39,7 +39,7 @@ location: "Albuquerque, New Mexico"
 | 13, Apr 13 - Apr 17    | Descriptive Statistics. Sampling Distributions. CLT          |&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/lecture21.pdf'><i>lecture 21</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/hw4_sol.pdf'><i>homework 4 solution</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/hw5.pdf'><i>homework 5</i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/lecture22.pdf'><i>lecture 22</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/lecture23.pdf'><i>lecture 23</i></a>&nbsp;&nbsp;&nbsp;&nbsp;|
 | 14, Apr 20 - Apr 24    |  Point Estimation. Method of Moments. Method of Maximum Likelihood |<br><a href='http://anastasiiakim.github.io/files/stat345/lecture24.pdf'><i>lecture 24</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/hw5_sol.pdf'><i>homework 5 solution</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/hw6.pdf'><i>homework 6</i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                         | 
 | 15, Apr 27 - May 1     | Confidence Intervals. Hypothesis testing        |<br><a href='http://anastasiiakim.github.io/files/stat345/lecture25.pdf'><i>lecture 25</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/lecture26.pdf'><i>lecture 26</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/lecture26_examples.pdf'><i>lecture26_examples</i></a>&nbsp;&nbsp;&nbsp;&nbsp;                                                              |
-| 16, May 4 - May 7      | Hypothesis testing. Review | <br><a href='http://anastasiiakim.github.io/files/stat345/lecture27.pdf'><i>lecture 27</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/hw6_sol.pdf'><i>homework 6 solution</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/hw7.pdf'><i>homework 7</i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| 16, May 4 - May 7      | Hypothesis testing. Review | <br><a href='http://anastasiiakim.github.io/files/stat345/lecture27.pdf'><i>lecture 27</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/hw6_sol.pdf'><i>homework 6 solution</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/hw7.pdf'><i>homework 7</i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/lecture28.pdf'><i>lecture 28</i></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href='http://anastasiiakim.github.io/files/stat345/review_topics.pdf'><i>review topics</i></a>&nbsp;&nbsp;&nbsp;&nbsp; |
 | 17, May 11 - May 15    |                   |      Final, May 13th                                 |
 
 
