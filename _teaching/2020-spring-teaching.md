@@ -16,8 +16,6 @@ location: "Albuquerque, New Mexico"
 <br><i>Recorded Kaltura class videos, Zoom meetings ids, HWs submission </i>: UNM Learn 
 
 
-<br><i>Announcements</i>: Homework 7 solution is posted. Exam will be posted on Wed morning on Learn (both parts).
-
 
 
 ### Tentative Course Schedule
