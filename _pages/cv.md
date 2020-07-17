@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in *Applied Mathematics*, Taras Shevchenko National University of Kyiv, Kyiv, Ukraine, 2012
 * M.S. in *Applied Mathematics*, Taras Shevchenko National University of Kyiv, Kyiv, Ukraine, 2014
-* Ph.D in *Statistics*, University of New Mexico, 2020 (anticipated)
+* Ph.D in *Statistics*, University of New Mexico, 2020 
 
 Recent experience
 ======
