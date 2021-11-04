@@ -58,6 +58,7 @@ Teaching
   
 Professional and Department Service
 ======
+* Served as a judge in the math section at the LANL Student Symposium (August, 4, 2021).
 * Reviewer for the *Journal of Mathematical Biology*.
 * Volunteered to grade the core stats and algebra final exams (Fall 2016 - Fall 2019).
 * Volunteered to grade the math contest exam taken by New Mexico high school students (Dec 2016).
