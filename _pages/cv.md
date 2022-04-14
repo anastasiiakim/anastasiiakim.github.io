@@ -30,13 +30,16 @@ Recent experience
   * Taught the *Introduction to Statistics* class of approximately 50 students three times a week for five semesters.
   * Prepared lectures, handouts, graded assignments and exams, held office hours.
   
-<>Skills
-<>======
-<>* <b>Technical</b>: C/C++, SAS, SQL, Unix, Git, LaTeX.
-<>  * Python (numpy, pandas, scikit-learn, tensorflow, keras, nltk, gensim, matplotlib)
-<>  * R (stats, glm, tidyverse, ggplot2, caret, rjags, knitr, sparklyr)       
-<> * <b>Statistics</b>: Statistical inference, Linear Models, Multivariate analysis, Bayesian inference, Time series, Stochastic processes. 
-<> * <b>Machine Learning</b>: Classification, Regression, Clustering, Feature engineering, Neural Networks.
+<!---
+Skills
+======
+* <b>Technical</b>: C/C++, SAS, SQL, Unix, Git, LaTeX.
+* Python (numpy, pandas, scikit-learn, tensorflow, keras, nltk, gensim, matplotlib)
+* R (stats, glm, tidyverse, ggplot2, caret, rjags, knitr, sparklyr)       
+* <b>Statistics</b>: Statistical inference, Linear Models, Multivariate analysis, Bayesian inference, Time series, Stochastic processes. 
+* <b>Machine Learning</b>: Classification, Regression, Clustering, Feature engineering, Neural Networks.
+-->
+
 
 Publications
 ======
