@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in *Applied Mathematics*, Taras Shevchenko National University of Kyiv, Kyiv, Ukraine, 2012
 * M.S. in *Applied Mathematics*, Taras Shevchenko National University of Kyiv, Kyiv, Ukraine, 2014
-* Ph.D in *Statistics*, University of New Mexico, 2020 
+* Ph.D in *Statistics* (with distinction), University of New Mexico, 2020 
 
 Recent experience
 ======
@@ -30,13 +30,13 @@ Recent experience
   * Taught the *Introduction to Statistics* class of approximately 50 students three times a week for five semesters.
   * Prepared lectures, handouts, graded assignments and exams, held office hours.
   
-Skills
-======
-* <b>Technical</b>: C/C++, SAS, SQL, Unix, Git, LaTeX.
-  * Python (numpy, pandas, scikit-learn, tensorflow, keras, nltk, gensim, matplotlib)
-  * R (stats, glm, tidyverse, ggplot2, caret, rjags, knitr, sparklyr)       
-* <b>Statistics</b>: Statistical inference, Linear Models, Multivariate analysis, Bayesian inference, Time series, Stochastic processes. 
-* <b>Machine Learning</b>: Classification, Regression, Clustering, Feature engineering, Neural Networks.
+<>Skills
+<>======
+<>* <b>Technical</b>: C/C++, SAS, SQL, Unix, Git, LaTeX.
+<>  * Python (numpy, pandas, scikit-learn, tensorflow, keras, nltk, gensim, matplotlib)
+<>  * R (stats, glm, tidyverse, ggplot2, caret, rjags, knitr, sparklyr)       
+<> * <b>Statistics</b>: Statistical inference, Linear Models, Multivariate analysis, Bayesian inference, Time series, Stochastic processes. 
+<> * <b>Machine Learning</b>: Classification, Regression, Clustering, Feature engineering, Neural Networks.
 
 Publications
 ======
@@ -56,9 +56,18 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Travel awards
+======
+* Women in Statistics and Data Science Conference Travel Award for Women in Statistics and Data Science, October 2019, Seattle, Washington.
+* UNM GPSA Travel Award for Women in Statistics and Data Science, October 2019, Seattle, Washington.
+* UNM Doctoral Conference Presentation Award for Evolution meetings, June 2019, Providence, Rhode Island and JSM, July 2019, Denver, Colorado.
+* BGSMath Travel Award for Algebraic and Combinatorial Phylogenetics workshop/conference, July 2017, Barcelona, Spain.
+
+
 Professional and Department Service
 ======
 * Served as a judge in the math section at the LANL Student Symposium (August, 4, 2021).
+* Commencement speaker at the UNM Math&Stats department graduation ceremony (Spring 2020).
 * Reviewer for the *Journal of Mathematical Biology*.
 * Volunteered to grade the core stats and algebra final exams (Fall 2016 - Fall 2019).
 * Volunteered to grade the math contest exam taken by New Mexico high school students (Dec 2016).
