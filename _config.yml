@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anastasiia Kim"
 title_separator          : "-"
 name                     : &name "Anastasiia Kim"
-description              : &description "Postdoctoral researcher at LANL"
+description              : &description "Staff scientist at LANL"
 url                      : https://anastasiiakim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anastasiiakim/anastasiiakim.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : anastasiia.kim@protonmail.com
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
