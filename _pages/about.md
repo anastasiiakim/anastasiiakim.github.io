@@ -12,4 +12,5 @@ I am a staff scientist at Los Alamos National Laboratory. I received my Ph.D. in
 
 My research interests include statistical inference, machine learning, computer vision, data science, high performance computing, computational biology, and phylogenetic inference.
 
+Email: akim AT lanl.gov
 [//]: <> (I work with ranked gene trees that give the potential to improve species tree inference. I am interested in applying research skills, statistical modeling, and machine learning techniques to answer challenging problems.) 
