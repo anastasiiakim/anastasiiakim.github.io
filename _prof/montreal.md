@@ -1,5 +1,5 @@
 ---
-title: "ISMB: the International Conference on Intelligent Systems for Molecular Biology"
+title: "ISMB"
 collection: prof
 excerpt: "Presented the *Regulatory & Systems Genomics* and *Evolution & Comparative Genomics* applications tracks. Attended *Federated Learning* workshop."
 permalink: /prof/canada
