@@ -34,7 +34,7 @@ Recent experience
 Skills
 ======
 * <b>Technical</b>: C/C++, SAS, SQL, Unix, Git, LaTeX.
-* Python (numpy, pandas, scikit-learn, tensorflow, keras, nltk, gensim, matplotlib)
+* Python (numpy, pandas, scikit-learn, scipy, tensorflow, pytorch, keras, networkx, gensim, matplotlib)
 * R (stats, glm, tidyverse, ggplot2, caret, rjags, knitr, sparklyr)       
 * <b>Statistics</b>: Statistical inference, Linear Models, Multivariate analysis, Bayesian inference, Time series, Stochastic processes. 
 * <b>Machine Learning</b>: Classification, Regression, Clustering, Feature engineering, Neural Networks.
@@ -69,11 +69,14 @@ Travel awards
 
 Professional and Department Service
 ======
-* Served as a judge in the math section at the LANL Student Symposium (August, 4, 2021).
-* Commencement speaker at the UNM Math&Stats department graduation ceremony (Spring 2020).
-* Reviewer for the *Journal of Mathematical Biology*.
-* Volunteered to grade the core stats and algebra final exams (Fall 2016 - Fall 2019).
-* Volunteered to grade the math contest exam taken by New Mexico high school students (Dec 2016).
+* Reviewer for the *Journal of Mathematical Biology*, *Briefings in Bioinformatics*, *PLOS Computational Biology*, *Frontiers* and *Molecular Biology and Evolution* journals.
+* Rapid response reviewer for the LANL Center for Space and Earth Science, 2024.
+* Author of a guidance document outlining strategies for integrating virtual environments (i.e., digital twins) into biomanufacturing efforts for LANL leadership, 2024.
+* Organizer of the inaugural LANL AI in Biology workshop at CNLS, 2024 (\href{https://aibio-2024.github.io/workshop/}{link}).
+* Judge in the math section at the LANL Student Symposium, 2021.
+* Commencement speaker at the UNM Math\&Stats department graduation ceremony, 2020.
+* Judge in the UNM Advanced Data Analysis poster session, 2019.
+* Grader for the New Mexico state wide math contest exam, 2016.
 
 
 Languages 
