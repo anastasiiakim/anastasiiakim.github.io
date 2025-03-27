@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a staff scientist at Los Alamos National Laboratory. I received my Ph.D. in Statistics at the University of New Mexico. My dissertation research is in the field of statistical phylogenetics, which—when combined with combinatorics, probability, computational biology, and computer science—forms a powerful framework for studying evolutionary processes and reconstructing species relationships from genetic data.
+I am an early career staff scientist at the Information Sciences group at LANL. I received my Ph.D. in Statistics at the University of New Mexico. My dissertation research is in the field of statistical phylogenetics, which—when combined with combinatorics, probability, computational biology, and computer science—forms a powerful framework for studying evolutionary processes and reconstructing species relationships from genetic data.
 
 My research interests include statistical inference, machine learning, computer vision, data science, high performance computing, computational biology, and phylogenetic inference.
 
