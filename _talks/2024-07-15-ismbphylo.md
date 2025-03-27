@@ -8,4 +8,4 @@ date: 2024-07-15
 location: "Montreal, Canada"
 ---
 
-[Slides](http://anastasiiakim.github.io/files/talks/ISMB_Phylo_poster.pdf)
+[Poster](http://anastasiiakim.github.io/files/talks/ISMB_Phylo_poster.pdf)
