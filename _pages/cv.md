@@ -72,7 +72,7 @@ Professional and Department Service
 * Reviewer for the *Journal of Mathematical Biology*, *Briefings in Bioinformatics*, *PLOS Computational Biology*, *Frontiers* and *Molecular Biology and Evolution* journals.
 * Rapid response reviewer for the LANL Center for Space and Earth Science, 2024.
 * Author of a guidance document outlining strategies for integrating virtual environments (i.e., digital twins) into biomanufacturing efforts for LANL leadership, 2024.
-* Organizer of the inaugural LANL AI in Biology workshop at CNLS, 2024 (\href{https://aibio-2024.github.io/workshop/}{link}).
+* Organizer of the inaugural LANL AI in Biology workshop at CNLS, 2024 [link](\href{https://aibio-2024.github.io/workshop/).
 * Judge in the math section at the LANL Student Symposium, 2021.
 * Commencement speaker at the UNM Math\&Stats department graduation ceremony, 2020.
 * Judge in the UNM Advanced Data Analysis poster session, 2019.
