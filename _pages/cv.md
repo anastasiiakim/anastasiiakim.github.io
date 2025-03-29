@@ -17,16 +17,26 @@ Education
 
 Recent experience
 ======
-* Research Assistant (Jun 2017 - Dec 2019, funded by *NIH ROI GM117590*) 
+* Staff Scientist at Los Alamos National Laboratory (Aug 2023 - Present)
+  * Latent tree learning for pandemic-scale phylogenetics (LDRD, 2023 - Present).
+  * Generation of fracture networks with diffusion models for rare event detection (LDRD, 2024 - Present). 
+  * Detecting undocumented orphaned wells using machine learning (DOE, 2022 - Present).
+  * Machine learning tools to detect early epigenetic biosignatures of infection (DTRA, 2022 - 2024).
+    
+* Postdoctoral Research Associate at Los Alamos National Laboratory (Nov 2020 - July 2023)
+  * Directed plant-microbiome evolution for food and biofuel security (LDRD, 2020-2022).
+    * D
+    
+* Research Assistant at the University of New Mexico (Jun 2017 - Dec 2019, funded by *NIH ROI GM117590*) 
   * Developed an algorithm to get a maximum likelihood estimate of an evolutionary tree from genetic data by searching a discrete parameter space. 
   * Developed *PRANC* software suite that provides tools to perform probabilities computations of gene trees given an evolutionary tree (C++).
   * Proposed and implemented several methods for detecting anomaly zones.
 
-* Statistical Consultant (Aug 2016 - May 2017)
+* Statistical Consultant at the University of New Mexico (Aug 2016 - May 2017)
   * Consulted over 60 graduate students from various departments on the statistical aspects of their research projects.
   * Provided statistical service including statistical problem formulation, experimental design, and statistical model selection.
     
-* Teaching Assistant (Aug 2014 - Jul 2016, Jan 2020 - May 2020)
+* Teaching Assistant at the University of New Mexico (Aug 2014 - Jul 2016, Jan 2020 - May 2020)
   * Taught the *Introduction to Statistics* class of approximately 50 students three times a week for five semesters.
   * Prepared lectures, handouts, graded assignments and exams, held office hours.
   
