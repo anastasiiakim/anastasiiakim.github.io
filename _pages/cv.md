@@ -25,7 +25,6 @@ Recent experience
     
 * Postdoctoral Research Associate at Los Alamos National Laboratory (Nov 2020 - July 2023)
   * Directed plant-microbiome evolution for food and biofuel security (LDRD, 2020-2022).
-    * D
     
 * Research Assistant at the University of New Mexico (Jun 2017 - Dec 2019, funded by *NIH ROI GM117590*) 
   * Developed an algorithm to get a maximum likelihood estimate of an evolutionary tree from genetic data by searching a discrete parameter space. 
